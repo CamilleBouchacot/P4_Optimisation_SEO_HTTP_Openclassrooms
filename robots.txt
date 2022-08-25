@@ -1,0 +1,13 @@
+User-agent: camillebouchacot
+Disallow: /nogooglebot/
+
+
+
+User-agent: camillebouchacot
+Allow:  https://camillebouchacot.github.io/-Openclassroom_Formation_developpeur_web_javascript-P4/
+        
+        https://camillebouchacot.github.io/-Openclassroom-Formation-developpeur-web-javascript-P4/page2.html
+
+
+
+Sitemap: https://camillebouchacot.github.io/-Openclassroom_Formation_developpeur_web_javascript-P4/sitemap.xml
