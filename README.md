@@ -1,3 +1,3 @@
 Lien de la Page Web
 
-https://camillebouchacot.github.io/-Openclassroom_Formation_developpeur_web_javascript-P4/#
+https://camillebouchacot.github.io/-Openclassroom-Formation-developpeur-web-javascript-P4/
