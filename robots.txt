@@ -28,8 +28,8 @@ Sitemap : <?xml version="1.0" encoding="UTF-8"?>
 </urlset>
 
 
-User-agent: camillebouchacot
-Disallow: /nogooglebot/
+User-Agent: *
+Disallow:
 
 
 
