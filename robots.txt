@@ -1,0 +1,9 @@
+
+Sitemap : https://camillebouchacot.github.io/-Openclassroom-Formation-developpeur-web-javascript-P4/sitemap.xml
+
+
+User-Agent: *
+Disallow:
+
+
+
